@@ -1,5 +1,5 @@
 # QrispyWithBootStrap
-# website link :   https://qrispybyneeraj.netlify.app.....
+website link :   https://qrispybyneeraj.netlify.app.....
 Developed QRispy, a responsive website using HTML, CSS, JavaScript, and Bootstrap.
 Implemented sections for Home, About, Menu, Features, Team, Reservation, Blog for seamless navigation.
 Incorporated a dynamic menu showcasing delicious dishes with ratings and enticing descriptions.
